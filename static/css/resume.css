@@ -1,0 +1,138 @@
+.background{
+    background-color:ghostwhite;
+  }
+  .size{
+    font-weight: lighter;
+  }
+  .text{
+    font-family: 'EB Garamond', serif;
+    
+  }
+  .Name{
+    font-weight: 350;
+    font-stretch:wider;
+    position: absolute;
+    left: 110px;
+   
+  }
+  .info{
+    font-family: 'Abel', sans-serif;
+    
+  }
+  h3,h1{
+    font-family: 'Roboto Slab', serif;
+  }
+  h2{
+    font-family: 'Rubik', sans-serif;
+    border-bottom:2px solid #000;
+    border-top:2px solid #000 ;
+    
+  }
+  .nav_style{
+    background-color:silver;
+  }
+  .name{
+      font-family: 'Dancing Script', cursive;   
+  }
+  .details{
+     font-family: 'Merriweather', serif;
+  }
+  .objective{
+    font-family: 'Roboto Slab', serif;
+    color: blueviolet;
+    border-bottom:2px solid #000;
+    border-top:2px solid #000 ;
+  }
+  .size{
+    font-family: 'Playfair Display', serif;
+  }
+  /* Material icons */
+  @font-face {
+    font-family: 'Material Icons';
+    src:url("../fonts/MaterialIcons-Regular.ttf");
+  }
+  
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  /* font-size: ; */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+.call{
+  font-size: 30px !important;
+  color: black !important;
+}
+
+.email{
+  font-size: 30px !important;
+  color: black !important;
+}
+
+.place{
+  font-size: 30px !important;
+  color: black !important;
+}
+
+.cake{
+  font-size: 30px !important;
+  color: black !important;
+}
+
+.school{
+  font-size: 40px !important;
+  color: black !important;
+}
+.internship{
+  color: black !important;
+  font-size: 40px !important;
+}
+
+.fit-border {
+  width: fit-content;
+}
+#fit-border {
+  width: fit-content;
+}
+
+.left-align {
+  margin-right: 0.2em;
+  vertical-align: middle;
+}
+.Education{
+  color: blueviolet;
+}
+.training{
+  color: blueviolet;
+}
+.skills{
+  color: blueviolet;
+}
+h4{
+    border-bottom:2px solid #000;
+    border-top:2px solid #000 ;
+}
+.star{
+  font-size: 40px !important;
+  color: black !important;
+}
+.emoji{
+  font-size: 40px !important;
+  color:black !important;
+}

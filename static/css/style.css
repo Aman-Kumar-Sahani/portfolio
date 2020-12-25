@@ -1,0 +1,91 @@
+/* Resume ----Home page */
+/* google font */
+
+h1{
+    font-family: 'Dancing Script', cursive;
+  }
+  h3{
+    font-family: 'Dancing Script', cursive;
+  }
+
+#parallax-images1{
+  background-image: url("../images/pic4.jpg");
+  height:500px;
+  background-repeat:initial;    
+  background-origin: border-box; 
+  background-attachment: fixed;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom:50px;
+}
+#parallax-images2{
+  background-image: url("../images/pic9.jpg");
+  height:500px;
+  background-repeat:initial;    
+  background-origin: border-box; 
+  background-attachment: fixed;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom:50px;
+}
+.nav_style{
+  background-color:silver;
+}
+.footer_style{
+    background-color:#a29bfe!important;
+    
+}
+.footer_style p{
+   margin-bottom:0!important;
+}
+.textsh{
+  text-shadow:0 0 5px #FF0000, 0 0 10px #0000FF;
+}
+.effect{
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+.present{
+  padding-top:5px;
+  box-shadow: 0 4px 8px 0 rgba(0.5, 0, 0, 0.5), 0 6px 20px 0 rgba(1, 1, 1,0.19);
+  background-color:gainsboro;       
+}
+.size{
+  font-family: 'Playfair Display', serif;
+}
+/* Material icons */
+
+@font-face{
+  font-family:"Material Icons";
+  src:url("../fonts/MaterialIcons-Regular.ttf");
+}
+.material-icons{
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  /* font-size: ; */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+.emoji{
+  font-size: 40px !important;
+  color:black !important;
+}
